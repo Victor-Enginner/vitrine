@@ -1,0 +1,8 @@
+# vitrine — deps, builds e segredos nunca entram
+node_modules/
+dist/
+dist-local/
+.vite*/
+*.log
+.env
+.env.*
